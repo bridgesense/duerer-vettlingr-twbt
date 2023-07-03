@@ -28,7 +28,7 @@ What you get:
 
 3. Delete the folder called raw.
 
-4. [Download](https://github.com/bridgesense/duerer-vettingr-twbt/raw/main/dist/duerer-tapesty-twbt-47.05.zip) Duerer Tapestry TWBT.
+4. [Download](https://github.com/bridgesense/duerer-vettingr-twbt/raw/main/dist/duerer-tapestry-twbt-47.05.zip) Duerer Tapestry TWBT.
 
 5. Unpack Tapestry into the same folder.
 
