@@ -5,7 +5,7 @@
 **In the summer of 2023, I was struck with a Strange Mood.**
 
 This is a tribute to the past, a rare photo of a unique animal that
-was the last of it's kind. Back when there wasn't augmented reality
+was the last of its kind. Back when there wasn't augmented reality
 or artificial intelligence, a group of dwarfs banded together to
 bring life to stone.
 
