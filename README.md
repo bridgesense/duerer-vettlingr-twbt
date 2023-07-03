@@ -1,3 +1,5 @@
+[Duerer Tapestry TWBT](https://raw.githubusercontent.com/bridgesense/duerer-vettingr-twbt/main/assets/Duererlogo.png?raw=true)
+
 # Duerer Tapestry TWBT
 
 **In the summer of 2023, I was struck with a Strange Mood.**
@@ -46,12 +48,19 @@ assets in 0.47.05.
 2. Clone the repository as suggested.
 
 ## Showcase
+---
+
+[Beautiful Maps](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/beautiful_maps.png?raw=true)
+
+[Vettlingr Graphics](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/vettlingr_maps.png?raw=true)
+
+[Old School](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/old_school.png?raw=true)
 
 ## CREDITS
 ---
 DF community:
 HaterSkater - Map Curator and Artist
-Vettingr - Graphics Curator and Artist
+Vettlingr - Graphics Curator and Artist
 Obsidian Soul - Creatures
 Doren - Ballista & Catapult
 Utkonos - Creatures
