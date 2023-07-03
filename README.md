@@ -38,7 +38,7 @@ What you get:
 
 ## Soundpack
 
-Did you purchase DF 50? It's perfectly  to use those sound
+Did you purchase DF 50? It's perfectly alright to use those sound
 assets in 0.47.05.
 
 [Find out more here.](https://github.com/bridgesense/soundsensepack)
