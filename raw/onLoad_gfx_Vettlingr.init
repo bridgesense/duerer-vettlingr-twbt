@@ -7,7 +7,6 @@ fixveins
 tweak nestbox-color
 tweak craft-age-wear
 tweak adamantine-cloth-wear
-fix/fat-dwarves
 fix/dry-buckets
 prioritize -a PlaceItemInTomb
 prioritize -a StoreItemInVehicle
@@ -16,4 +15,4 @@ on-new-fortress lua -s "raw/generate-procedual-graphics.lua"
 
 repeat -time 1 -timeUnits days -command [ fixveins ] -name fixveins
 repeat -time 1 -timeUnits months -command [ quicksave ] -name quicksave
-repeat -time 1 -timeUnits months -command [ multicmd fix/corrupt-equipment; fix/fat-dwarves ] -name fix-corrupt-equipment
+repeat -time 1 -timeUnits months -command [ multicmd fix/corrupt-equipment ] -name fix-corrupt-equipment
