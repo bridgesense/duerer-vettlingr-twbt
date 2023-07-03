@@ -1,4 +1,4 @@
-[Duerer Tapestry TWBT](https://raw.githubusercontent.com/bridgesense/duerer-vettingr-twbt/main/assets/Duererlogo.png?raw=true)
+![Duerer Tapestry TWBT](https://raw.githubusercontent.com/bridgesense/duerer-vettingr-twbt/main/assets/Duererlogo.png?raw=true)
 
 # Duerer Tapestry TWBT
 
@@ -15,20 +15,20 @@ What you get:
 * Readable Text
 
 ## Requirements
----
+
 [Dwarf Fotress 0.47.05](http://www.bay12games.com/dwarves/older_versions.html)
 
 [DFHack 0.47.05-r8](https://github.com/DFHack/dfhack/releases/tag/0.47.05-r8)
 
 ## How to Install
----
+
 1. Unpack Dwarf Fortress 0.47.05 into a folder you can find again.
 
 2. Unpack DFHack 0.47.05-r8 into the same folder.
 
 3. Delete the folder called raw.
 
-4. Download Duerer Tapestry TWBT.
+4. [Download](https://github.com/bridgesense/duerer-vettingr-twbt/raw/main/dist/duerer-tapesty-twbt-47.05.zip) Duerer Tapestry TWBT.
 
 5. Unpack Tapestry into the same folder.
 
@@ -37,7 +37,7 @@ What you get:
 7. Feed dwarfs. Dig deep. Create industry. Rinse. Repeat.
 
 ## Soundpack
---- 
+
 Did you purchase the DF 50? It's perfectly legal to use those sound
 assets in 0.47.05.
 
@@ -48,16 +48,15 @@ assets in 0.47.05.
 2. Clone the repository as suggested.
 
 ## Showcase
----
 
-[Beautiful Maps](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/beautiful_maps.png?raw=true)
+![Beautiful Maps](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/beautiful_maps.png?raw=true)
 
-[Vettlingr Graphics](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/vettlingr_maps.png?raw=true)
+![Vettlingr Graphics](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/vettlingr_maps.png?raw=true)
 
-[Old School](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/old_school.png?raw=true)
+![Old School](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/old_school.png?raw=true)
 
 ## CREDITS
----
+
 DF community:
 HaterSkater - Map Curator and Artist
 Vettlingr - Graphics Curator and Artist
