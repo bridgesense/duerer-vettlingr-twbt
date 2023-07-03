@@ -1,4 +1,4 @@
-![Duerer Tapestry TWBT](https://raw.githubusercontent.com/bridgesense/duerer-vettingr-twbt/main/assets/Duererlogo.png?raw=true)
+![Duerer Tapestry TWBT](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/duerer_twbt_logo.png?raw=true)
 
 # Duerer Tapestry TWBT
 
