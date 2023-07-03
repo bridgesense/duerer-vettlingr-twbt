@@ -1,4 +1,4 @@
-![Duerer Tapestry TWBT](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/duerer_twbt_logo.png?raw=true)
+![Duerer Tapestry TWBT](https://github.com/bridgesense/duerer-vettlingr-twbt/blob/main/assets/duerer_twbt_logo.png?raw=true)
 
 # Duerer Tapestry TWBT
 
@@ -28,7 +28,7 @@ What you get:
 
 3. Delete the folder called raw.
 
-4. [Download](https://github.com/bridgesense/duerer-vettingr-twbt/raw/main/dist/duerer-tapestry-twbt-47.05.zip) Duerer Tapestry TWBT.
+4. [Download](https://github.com/bridgesense/duerer-vettlingr-twbt/raw/main/dist/duerer-tapestry-twbt-47.05.zip) Duerer Tapestry TWBT.
 
 5. Unpack Tapestry into the same folder.
 
@@ -49,11 +49,11 @@ assets in 0.47.05.
 
 ## Showcase
 
-![Beautiful Maps](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/beautiful_maps.png?raw=true)
+![Beautiful Maps](https://github.com/bridgesense/duerer-vettlingr-twbt/blob/main/assets/beautiful_maps.png?raw=true)
 
-![Vettlingr Graphics](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/vettlingr_maps.png?raw=true)
+![Vettlingr Graphics](https://github.com/bridgesense/duerer-vettlingr-twbt/blob/main/assets/vettlingr_maps.png?raw=true)
 
-![Old School](https://github.com/bridgesense/duerer-vettingr-twbt/blob/main/assets/old_school.png?raw=true)
+![Old School](https://github.com/bridgesense/duerer-vettlingr-twbt/blob/main/assets/old_school.png?raw=true)
 
 ## CREDITS
 
