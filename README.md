@@ -53,8 +53,6 @@ assets in 0.47.05.
 
 ![Vettlingr Graphics](https://github.com/bridgesense/duerer-vettlingr-twbt/blob/main/assets/vettlingr_maps.png?raw=true)
 
-![Old School](https://github.com/bridgesense/duerer-vettlingr-twbt/blob/main/assets/old_school.png?raw=true)
-
 ## CREDITS
 
 DF community:<br />
