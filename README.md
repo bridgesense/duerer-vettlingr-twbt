@@ -16,7 +16,7 @@ What you get:
 
 ## Requirements
 
-[Dwarf Fotress 0.47.05](http://www.bay12games.com/dwarves/older_versions.html)
+[Dwarf Fortress 0.47.05](http://www.bay12games.com/dwarves/older_versions.html)
 
 [DFHack 0.47.05-r8](https://github.com/DFHack/dfhack/releases/tag/0.47.05-r8)
 
@@ -28,13 +28,15 @@ What you get:
 
 3. Delete the folder called raw.
 
-4. [Download](https://github.com/bridgesense/duerer-vettlingr-twbt/raw/main/dist/duerer-tapestry-twbt-47.05.zip) Duerer Tapestry TWBT.
+4. [Download](https://github.com/bridgesense/duerer-vettlingr-twbt/releases/download/0.47.05_r002/duerer-tapestry-twbt-47.05.zip) Duerer Tapestry TWBT.
 
 5. Unpack Tapestry into the same folder.
 
 6. Run DFHack.
 
 7. Feed dwarfs. Dig deep. Create industry. Rinse. Repeat.
+
+Alternatively, you can [download the complete package](https://github.com/bridgesense/duerer-vettlingr-twbt/releases/download/0.47.05_r002/dwarf-fortress_complete_0.47.05_linux-x64.zip) of Dwarf Fortress with everything already installed.
 
 ## Soundpack
 
