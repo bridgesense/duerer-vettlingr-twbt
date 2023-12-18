@@ -36,7 +36,7 @@ What you get:
 
 7. Feed dwarfs. Dig deep. Create industry. Rinse. Repeat.
 
-Alternatively, you can [download the complete package](https://github.com/bridgesense/duerer-vettlingr-twbt/releases/download/0.47.05_r003/dwarf-fortress_complete_0.47.05_linux-x64.zip) of Dwarf Fortress with everything already installed.
+Alternatively, if you're on Linux, you can [download the complete package](https://github.com/bridgesense/duerer-vettlingr-twbt/releases/download/0.47.05_r003/dwarf-fortress_complete_0.47.05_linux-x64.zip) of Dwarf Fortress with everything already installed.
 
 ## Soundpack
 
